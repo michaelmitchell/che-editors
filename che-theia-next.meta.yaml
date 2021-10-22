@@ -1,5 +1,4 @@
 version: 1.0.0
-publisher: eclipse
 editors:
   - id: eclipse/che-theia/custom
     title: Eclipse Theia Custom
