@@ -1,7 +1,7 @@
 version: 1.0.0
+publisher: eclipse
 editors:
   - id: eclipse/che-theia/custom
-    publisher: eclipse
     title: Eclipse Theia Custom
     displayName: theia-ide
     description: Eclipse Theia
